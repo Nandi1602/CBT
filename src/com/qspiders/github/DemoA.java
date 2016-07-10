@@ -6,5 +6,10 @@ public class DemoA {
 		System.out.println("Hai");
 
 	}
+	
+	public void test()
+	{
+		System.out.println("Executing test method");
+	}
 
 }
